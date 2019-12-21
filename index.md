@@ -2,19 +2,16 @@
 layout: home
 image:
   feature: trees.jpg
-description: "Jordi Pont-Tuset's website"
+description: "Lei Wan's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a> 
-and part of the advisory board of <a href="http://www.vilynx.com/index.html" target="_blank">Vilynx</a>.
+I am an associate professor at <a href="https://information.xmu.edu.cn/" target="_blank">School of Informatics</a> in
+<a href="https://www.xmu.edu.cn/" target="_blank">Xiamen University</a>. I am a member of <a href="https://uacen.xmu.edu.cn/" target="_blank"> Key Laboratory of Underwater Acoustic Communication and Marine Information Technology (Xiamen University), Ministry of Education</a>.
 
 <br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group 
-and with the startup <a href="https://gestoos.com" target="_blank">Fezoo</a>.
+My research area is on wireless communications, with special focus on underwater acoustic communications (including algorithm design, system development, performance analysis) and signal processing in wireless communications.
 
 <br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
-
+I got my Phd degree from <a href="https://uconn.edu/" target="_blank">University of Connecticut</a>, supervised by <a href="https://www.ee.uconn.edu/shengli-zhou/" target="_blank">Prof. Shengli Zhou</a>(IEEE Fellow).
+Previously, I worked at <a href="http://uae.hrbeu.edu.cn/" target="_blank">College of Underwater Acoustic Engineering</a> in Harbin Engineering University, and <a href="http://www.aquasent.com/" target="_blank">AquaSeNT</a>.
