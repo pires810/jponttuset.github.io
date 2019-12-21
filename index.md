@@ -1,9 +1,9 @@
 ---
 layout: home
-image:
-  feature: trees.jpg
 description: "Lei Wan's website"
 tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: trees.jpg
 ---
 
 I am an associate professor at <a href="https://information.xmu.edu.cn/" target="_blank">School of Informatics</a> in
