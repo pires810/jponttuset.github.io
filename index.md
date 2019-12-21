@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 I am an associate professor at <a href="https://information.xmu.edu.cn/" target="_blank">School of Informatics</a> in
-<a href="https://www.xmu.edu.cn/" target="_blank">Xiamen University</a>. I am a member of <a href="https://uacen.xmu.edu.cn/" target="_blank"> Key Laboratory of Underwater Acoustic Communication and Marine Information Technology (Xiamen University), Ministry of Education</a>.
+<a href="https://www.xmu.edu.cn/" target="_blank">Xiamen University</a>. I am a member of <a href="https://uacen.xmu.edu.cn/" target="_blank">Key Laboratory of Underwater Acoustic Communication and Marine Information Technology (Xiamen University), Ministry of Education</a>.
 
 <br />
 My research area is on wireless communications, with special focus on underwater acoustic communications (including algorithm design, system development, performance analysis) and signal processing in wireless communications.
