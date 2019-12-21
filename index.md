@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home2
 description: "Lei Wan's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
